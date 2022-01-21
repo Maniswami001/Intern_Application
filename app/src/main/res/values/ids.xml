@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="city" type="id" />
+    <item name="Address" type="id" />
+    <item name="Mobile" type="id" />
+    <item name="categoryenter" type="id" />
+    <item name="addshop" type="id" />
+    <item name="imagebox" type="id" />
+    <item name="addimage" type="id" />
+    <item name="name" type="id" />
+    <item name="addshopname" type="id" />
+    <item name="Addressenter" type="id" />
+    <item name="Mobileenter" type="id" />
+    <item name="category" type="id" />
+    <item name="cityenter" type="id" />
+    <item name="addbtn" type="id" />
+</resources>

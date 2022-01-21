@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">intern application</string>
+    <string name="todo">TODO</string>
+    <string name="get_location">Get Location</string>
+    <string name="current_location">Current Location</string>
+    <string name="enter_the_current_location">Enter the current_location</string>
+    <string name="grocery">Grocery</string>
+    <string name="more">more</string>
+    <string name="food">food</string>
+    <string name="medicine">medicine</string>
+    <string name="stationery">Stationery</string>
+    <string name="textview" />
+    <string name="add_shop">ADD SHOP</string>
+    <string name="add_my_shop">ADD MY SHOP</string>
+    <string name="shop_category">Shop Category</string>
+    <string name="enter_the_shop_name">Enter the Shop Name</string>
+    <string name="shop_adress">Shop Adress</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="enter_the_shop_address">Enter the Shop Address</string>
+    <string name="city">City</string>
+    <string name="enter_the_city">Enter the city</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_the_mobile_number">Enter the Mobile Number</string>
+    <string name="enter_the_shop_category">Enter the Shop Category</string>
+    <string name="shop_time">Shop time</string>
+    <string name="enter_the_shop_time">Enter the shop time</string>
+
+</resources>
